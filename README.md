@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Alex-Oyagata" target="blank">Alex Oyagata</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Alex-Oyagata" target="blank">Alex </a></h1>
 <h3 align="center">A passionate Full Stack Developer from Ecuador 🇪🇨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-oyagata&label=Profile%20views&color=0e75b6&style=flat" alt="alex-oyagata" /> </p>
