@@ -8,7 +8,7 @@
 </a>
 
 - 🎓 I'm currently studying at **Universidad Técnica del Norte (UTN)** in Ibarra, Ecuador
-- 🔭 I'm currently working on **Sistema Distribuido de Gestión de Horarios Docentes UTN**
+- 🔭 I'm currently working on **Aplicación web para la gestion de una empresa de transporte pesado**
 - 💻 Tech Stack: **Laravel, PHP, JavaScript, Java, Python, C#**
 - 🌱 I'm currently learning **.NET Framework**
 - 🤝 I'm available for freelancing and collaborations
